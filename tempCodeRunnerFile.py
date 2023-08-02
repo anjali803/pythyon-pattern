@@ -1,2 +1,2 @@
-   # for k in range(i+1):
-    #     print(" ",end=" ")
+if (i==0 and j == n):
+        #     print("*",end=" ")
